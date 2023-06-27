@@ -78,7 +78,7 @@ public class ContaBanco {
         }
 
     }
-    // Métodos Especiais
+    // Métodos Construtor
 
 
     public ContaBanco() {
